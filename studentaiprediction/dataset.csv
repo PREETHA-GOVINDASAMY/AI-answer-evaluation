@@ -1,0 +1,62 @@
+question,model_answer,marks
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence by machines enabling them to learn reason and solve problems.,10
+What is Machine Learning?,Machine Learning is a subset of AI that allows systems to learn patterns from data without explicit programming.,10
+What is Deep Learning?,Deep Learning is a subset of machine learning that uses neural networks with many layers to model complex patterns.,10
+Define Data Science.,Data Science is the field that uses scientific methods algorithms and systems to extract knowledge from data.,10
+What is supervised learning?,Supervised learning is a type of machine learning where models are trained using labeled data.,10
+What is unsupervised learning?,Unsupervised learning is a type of machine learning where models find patterns in unlabeled data.,10
+What is reinforcement learning?,Reinforcement learning is a type of learning where an agent learns by interacting with an environment using rewards and penalties.,10
+Define overfitting.,Overfitting occurs when a model learns training data too well including noise leading to poor generalization.,10
+Define underfitting.,Underfitting occurs when a model is too simple to capture patterns in the data.,10
+What is a dataset?,A dataset is a collection of data used for analysis or training machine learning models.,10
+What is feature engineering?,Feature engineering is the process of creating and selecting variables to improve model performance.,10
+What is a model in ML?,A model is a mathematical representation learned from data used to make predictions.,10
+What is classification?,Classification is a supervised learning task that predicts categorical labels.,10
+What is regression?,Regression is a supervised learning task that predicts continuous values.,10
+What is clustering?,Clustering is an unsupervised learning method that groups similar data points.,10
+What is K-means?,K-means is a clustering algorithm that partitions data into K groups based on similarity.,10
+What is KNN?,K-Nearest Neighbors is a supervised algorithm that classifies data based on nearest neighbors.,10
+What is Decision Tree?,A Decision Tree is a model that splits data into branches based on feature values.,10
+What is Random Forest?,Random Forest is an ensemble method that uses multiple decision trees for better accuracy.,10
+What is SVM?,Support Vector Machine is a supervised algorithm that finds the best boundary between classes.,10
+What is Neural Network?,A neural network is a model inspired by the human brain consisting of interconnected neurons.,10
+What is activation function?,An activation function introduces non-linearity into a neural network.,10
+What is gradient descent?,Gradient descent is an optimization algorithm used to minimize loss by updating parameters.,10
+What is loss function?,A loss function measures how far predictions are from actual values.,10
+What is accuracy?,Accuracy is the ratio of correct predictions to total predictions.,10
+What is precision?,Precision is the ratio of true positives to predicted positives.,10
+What is recall?,Recall is the ratio of true positives to actual positives.,10
+What is F1 score?,F1 score is the harmonic mean of precision and recall.,10
+What is confusion matrix?,A confusion matrix is a table used to evaluate classification models.,10
+What is cross validation?,Cross validation is a technique to evaluate model performance using multiple splits.,10
+What is bias in ML?,Bias is error due to incorrect assumptions in the learning algorithm.,10
+What is variance?,Variance is error due to model sensitivity to small changes in data.,10
+What is bias-variance tradeoff?,It is the balance between bias and variance to improve model performance.,10
+What is dimensionality reduction?,Dimensionality reduction reduces the number of features while preserving information.,10
+What is PCA?,Principal Component Analysis is a technique to reduce dimensions by transforming features.,10
+What is normalization?,Normalization scales data to a fixed range usually between 0 and 1.,10
+What is standardization?,Standardization transforms data to have mean zero and standard deviation one.,10
+What is outlier?,An outlier is a data point significantly different from others.,10
+What is data preprocessing?,Data preprocessing involves cleaning transforming and preparing data for analysis.,10
+What is ETL?,ETL stands for Extract Transform Load used in data pipelines.,10
+What is big data?,Big data refers to large complex datasets that require advanced tools for processing.,10
+What is Hadoop?,Hadoop is a framework for distributed storage and processing of big data.,10
+What is Spark?,Apache Spark is a fast data processing engine for big data analytics.,10
+What is data mining?,Data mining is the process of discovering patterns in large datasets.,10
+What is NLP?,Natural Language Processing is a field of AI that deals with human language understanding.,10
+What is computer vision?,Computer vision is a field of AI that enables machines to interpret images and videos.,10
+What is chatbot?,A chatbot is an AI program that simulates conversation with users.,10
+What is recommendation system?,A recommendation system suggests items based on user preferences.,10
+What is time series?,Time series is data collected over time intervals.,10
+What is anomaly detection?,Anomaly detection identifies unusual patterns in data.,10
+What is feature scaling?,Feature scaling standardizes data to improve model performance.,10
+What is training data?,Training data is used to train machine learning models.,10
+What is testing data?,Testing data is used to evaluate model performance.,10
+What is validation data?,Validation data is used to tune model parameters.,10
+What is hyperparameter?,Hyperparameters are configuration settings set before training.,10
+What is model evaluation?,Model evaluation assesses how well a model performs on unseen data.,10
+What is ROC curve?,ROC curve shows performance of a classification model at different thresholds.,10
+What is AUC?,AUC measures the area under the ROC curve indicating model performance.,10
+What is ensemble learning?,Ensemble learning combines multiple models to improve accuracy.,10
+What is bagging?,Bagging is an ensemble method that reduces variance by training multiple models.,10
+What is boosting?,Boosting is an ensemble method that improves weak learners sequentially.,10
